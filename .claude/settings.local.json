@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmd /c \"npm install\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
